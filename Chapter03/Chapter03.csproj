@@ -7,12 +7,14 @@
 
   <ItemGroup>
     <Compile Remove="IntegerLiteral.cs" />
+    <Compile Remove="Overflow.cs" />
     <Compile Remove="Program.cs" />
     <Compile Remove="SignedUnsigned.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="IntegerLiteral.cs" />
+    <None Include="Overflow.cs" />
     <None Include="Program.cs" />
     <None Include="SignedUnsigned.cs" />
   </ItemGroup>
