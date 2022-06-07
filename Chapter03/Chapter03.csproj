@@ -9,6 +9,7 @@
     <Compile Remove="Bool.cs" />
     <Compile Remove="FloatingPoint.cs" />
     <Compile Remove="IntegerLiteral.cs" />
+    <Compile Remove="Object.cs" />
     <Compile Remove="Overflow.cs" />
     <Compile Remove="Program.cs" />
     <Compile Remove="SignedUnsigned.cs" />
@@ -19,6 +20,7 @@
     <None Include="Bool.cs" />
     <None Include="FloatingPoint.cs" />
     <None Include="IntegerLiteral.cs" />
+    <None Include="Object.cs" />
     <None Include="Overflow.cs" />
     <None Include="Program.cs" />
     <None Include="SignedUnsigned.cs" />
