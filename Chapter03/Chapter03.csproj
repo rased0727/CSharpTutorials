@@ -10,8 +10,10 @@
     <Compile Remove="BoxingUnBoxing.cs" />
     <Compile Remove="Const.cs" />
     <Compile Remove="Enum.cs" />
+    <Compile Remove="Enum2.cs" />
     <Compile Remove="FloatingPoint.cs" />
     <Compile Remove="IntegerLiteral.cs" />
+    <Compile Remove="Nullable.cs" />
     <Compile Remove="Object.cs" />
     <Compile Remove="Overflow.cs" />
     <Compile Remove="Program.cs" />
@@ -26,8 +28,10 @@
     <None Include="BoxingUnBoxing.cs" />
     <None Include="Const.cs" />
     <None Include="Enum.cs" />
+    <None Include="Enum2.cs" />
     <None Include="FloatingPoint.cs" />
     <None Include="IntegerLiteral.cs" />
+    <None Include="Nullable.cs" />
     <None Include="Object.cs" />
     <None Include="Overflow.cs" />
     <None Include="Program.cs" />
