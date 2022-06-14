@@ -9,6 +9,7 @@
     <Compile Remove="Bool.cs" />
     <Compile Remove="BoxingUnBoxing.cs" />
     <Compile Remove="Const.cs" />
+    <Compile Remove="CTS.cs" />
     <Compile Remove="Enum.cs" />
     <Compile Remove="Enum2.cs" />
     <Compile Remove="FloatingPoint.cs" />
@@ -20,6 +21,7 @@
     <Compile Remove="SignedUnsigned.cs" />
     <Compile Remove="String.cs" />
     <Compile Remove="TypeConversion.cs" />
+    <Compile Remove="UsingVar.cs" />
     <Compile Remove="VirtualFunction.cs" />
   </ItemGroup>
 
@@ -27,6 +29,7 @@
     <None Include="Bool.cs" />
     <None Include="BoxingUnBoxing.cs" />
     <None Include="Const.cs" />
+    <None Include="CTS.cs" />
     <None Include="Enum.cs" />
     <None Include="Enum2.cs" />
     <None Include="FloatingPoint.cs" />
@@ -38,6 +41,7 @@
     <None Include="SignedUnsigned.cs" />
     <None Include="String.cs" />
     <None Include="TypeConversion.cs" />
+    <None Include="UsingVar.cs" />
     <None Include="VirtualFunction.cs" />
   </ItemGroup>
 
