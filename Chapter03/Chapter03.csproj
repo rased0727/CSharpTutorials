@@ -20,6 +20,7 @@
     <Compile Remove="Program.cs" />
     <Compile Remove="SignedUnsigned.cs" />
     <Compile Remove="String.cs" />
+    <Compile Remove="StringSearch.cs" />
     <Compile Remove="TypeConversion.cs" />
     <Compile Remove="UsingVar.cs" />
     <Compile Remove="VirtualFunction.cs" />
@@ -40,6 +41,7 @@
     <None Include="Program.cs" />
     <None Include="SignedUnsigned.cs" />
     <None Include="String.cs" />
+    <None Include="StringSearch.cs" />
     <None Include="TypeConversion.cs" />
     <None Include="UsingVar.cs" />
     <None Include="VirtualFunction.cs" />
