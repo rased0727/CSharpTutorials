@@ -20,6 +20,9 @@
     <Compile Remove="Program.cs" />
     <Compile Remove="SignedUnsigned.cs" />
     <Compile Remove="String.cs" />
+    <Compile Remove="StringFormatBasic.cs" />
+    <Compile Remove="StringFormatNumber.cs" />
+    <Compile Remove="StringModify.cs" />
     <Compile Remove="StringSearch.cs" />
     <Compile Remove="TypeConversion.cs" />
     <Compile Remove="UsingVar.cs" />
@@ -41,6 +44,9 @@
     <None Include="Program.cs" />
     <None Include="SignedUnsigned.cs" />
     <None Include="String.cs" />
+    <None Include="StringFormatBasic.cs" />
+    <None Include="StringFormatNumber.cs" />
+    <None Include="StringModify.cs" />
     <None Include="StringSearch.cs" />
     <None Include="TypeConversion.cs" />
     <None Include="UsingVar.cs" />
