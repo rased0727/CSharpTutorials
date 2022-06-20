@@ -21,6 +21,7 @@
     <Compile Remove="SignedUnsigned.cs" />
     <Compile Remove="String.cs" />
     <Compile Remove="StringFormatBasic.cs" />
+    <Compile Remove="StringFormatDatetime.cs" />
     <Compile Remove="StringFormatNumber.cs" />
     <Compile Remove="StringModify.cs" />
     <Compile Remove="StringSearch.cs" />
@@ -45,6 +46,7 @@
     <None Include="SignedUnsigned.cs" />
     <None Include="String.cs" />
     <None Include="StringFormatBasic.cs" />
+    <None Include="StringFormatDatetime.cs" />
     <None Include="StringFormatNumber.cs" />
     <None Include="StringModify.cs" />
     <None Include="StringSearch.cs" />
