@@ -5,4 +5,14 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="LogicalOperator_ConditionalOperator.cs" />
+    <Compile Remove="StringConcatenate_RelationalOperater.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="LogicalOperator_ConditionalOperator.cs" />
+    <None Include="StringConcatenate_RelationalOperater.cs" />
+  </ItemGroup>
+
 </Project>
