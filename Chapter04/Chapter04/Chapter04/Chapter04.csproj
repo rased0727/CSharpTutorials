@@ -7,11 +7,13 @@
 
   <ItemGroup>
     <Compile Remove="LogicalOperator_ConditionalOperator.cs" />
+    <Compile Remove="NullConditionalOperator.cs" />
     <Compile Remove="StringConcatenate_RelationalOperater.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="LogicalOperator_ConditionalOperator.cs" />
+    <None Include="NullConditionalOperator.cs" />
     <None Include="StringConcatenate_RelationalOperater.cs" />
   </ItemGroup>
 
