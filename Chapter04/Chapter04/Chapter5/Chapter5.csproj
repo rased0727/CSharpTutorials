@@ -7,10 +7,12 @@
 
   <ItemGroup>
     <Compile Remove="IfElse_NestedIf.cs" />
+    <Compile Remove="Switch.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="IfElse_NestedIf.cs" />
+    <None Include="Switch.cs" />
   </ItemGroup>
 
 </Project>
