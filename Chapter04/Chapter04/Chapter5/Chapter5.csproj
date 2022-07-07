@@ -8,11 +8,15 @@
   <ItemGroup>
     <Compile Remove="IfElse_NestedIf.cs" />
     <Compile Remove="Switch.cs" />
+    <Compile Remove="SwitchExp.cs" />
+    <Compile Remove="While_Dowhile.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="IfElse_NestedIf.cs" />
     <None Include="Switch.cs" />
+    <None Include="SwitchExp.cs" />
+    <None Include="While_Dowhile.cs" />
   </ItemGroup>
 
 </Project>
