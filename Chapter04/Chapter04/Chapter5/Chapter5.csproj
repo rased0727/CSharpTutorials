@@ -6,6 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Break_Continue.cs" />
+    <Compile Remove="Foreach_forInfloop_whileInfloop.cs" />
+    <Compile Remove="For_NestedFor.cs" />
     <Compile Remove="IfElse_NestedIf.cs" />
     <Compile Remove="Switch.cs" />
     <Compile Remove="SwitchExp.cs" />
@@ -13,6 +16,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="Break_Continue.cs" />
+    <None Include="Foreach_forInfloop_whileInfloop.cs" />
+    <None Include="For_NestedFor.cs" />
     <None Include="IfElse_NestedIf.cs" />
     <None Include="Switch.cs" />
     <None Include="SwitchExp.cs" />
