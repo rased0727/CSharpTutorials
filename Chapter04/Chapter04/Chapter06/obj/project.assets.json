@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\GitHub\\CSharpTutorials\\Chapter04\\Chapter04\\Chapter5\\Chapter05.csproj",
-      "projectName": "Chapter05",
-      "projectPath": "C:\\Users\\admin\\Desktop\\GitHub\\CSharpTutorials\\Chapter04\\Chapter04\\Chapter5\\Chapter05.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\GitHub\\CSharpTutorials\\Chapter04\\Chapter04\\Chapter06\\Chapter06.csproj",
+      "projectName": "Chapter06",
+      "projectPath": "C:\\Users\\admin\\Desktop\\GitHub\\CSharpTutorials\\Chapter04\\Chapter04\\Chapter06\\Chapter06.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\GitHub\\CSharpTutorials\\Chapter04\\Chapter04\\Chapter5\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\GitHub\\CSharpTutorials\\Chapter04\\Chapter04\\Chapter06\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

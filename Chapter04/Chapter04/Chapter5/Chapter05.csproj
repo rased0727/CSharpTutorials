@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Break_Continue.cs" />
+    <Compile Remove="Foreach_forInfloop_whileInfloop.cs" />
+    <Compile Remove="For_NestedFor.cs" />
+    <Compile Remove="Goto.cs" />
+    <Compile Remove="IfElse_NestedIf.cs" />
+    <Compile Remove="Switch.cs" />
+    <Compile Remove="SwitchExp.cs" />
+    <Compile Remove="While_Dowhile.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Break_Continue.cs" />
+    <None Include="Foreach_forInfloop_whileInfloop.cs" />
+    <None Include="For_NestedFor.cs" />
+    <None Include="Goto.cs" />
+    <None Include="IfElse_NestedIf.cs" />
+    <None Include="Switch.cs" />
+    <None Include="SwitchExp.cs" />
+    <None Include="While_Dowhile.cs" />
+  </ItemGroup>
+
+</Project>
