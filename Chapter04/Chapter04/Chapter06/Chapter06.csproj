@@ -7,10 +7,12 @@
 
   <ItemGroup>
     <Compile Remove="Calculator.cs" />
+    <Compile Remove="SwapByValRef.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="Calculator.cs" />
+    <None Include="SwapByValRef.cs" />
   </ItemGroup>
 
 </Project>
