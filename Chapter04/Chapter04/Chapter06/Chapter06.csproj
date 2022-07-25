@@ -7,12 +7,14 @@
 
   <ItemGroup>
     <Compile Remove="Calculator.cs" />
+    <Compile Remove="Overloading_UsingParams.cs" />
     <Compile Remove="RefReturn_UsingOut.cs" />
     <Compile Remove="SwapByValRef.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="Calculator.cs" />
+    <None Include="Overloading_UsingParams.cs" />
     <None Include="RefReturn_UsingOut.cs" />
     <None Include="SwapByValRef.cs" />
   </ItemGroup>
