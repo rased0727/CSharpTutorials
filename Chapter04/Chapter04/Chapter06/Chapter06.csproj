@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <Compile Remove="Calculator.cs" />
+    <Compile Remove="NamedParameter_OptionalParameter.cs" />
     <Compile Remove="Overloading_UsingParams.cs" />
     <Compile Remove="RefReturn_UsingOut.cs" />
     <Compile Remove="SwapByValRef.cs" />
@@ -14,6 +15,7 @@
 
   <ItemGroup>
     <None Include="Calculator.cs" />
+    <None Include="NamedParameter_OptionalParameter.cs" />
     <None Include="Overloading_UsingParams.cs" />
     <None Include="RefReturn_UsingOut.cs" />
     <None Include="SwapByValRef.cs" />
