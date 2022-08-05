@@ -1,0 +1,28 @@
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04\Chapter04\Chapter04\bin\Debug\netcoreapp3.1\Chapter04.exe
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04\Chapter04\Chapter04\bin\Debug\netcoreapp3.1\Chapter04.deps.json
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04\Chapter04\Chapter04\bin\Debug\netcoreapp3.1\Chapter04.runtimeconfig.json
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04\Chapter04\Chapter04\bin\Debug\netcoreapp3.1\Chapter04.runtimeconfig.dev.json
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04\Chapter04\Chapter04\bin\Debug\netcoreapp3.1\Chapter04.dll
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04\Chapter04\Chapter04\bin\Debug\netcoreapp3.1\Chapter04.pdb
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04\Chapter04\Chapter04\obj\Debug\netcoreapp3.1\Chapter04.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04\Chapter04\Chapter04\obj\Debug\netcoreapp3.1\Chapter04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04\Chapter04\Chapter04\obj\Debug\netcoreapp3.1\Chapter04.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04\Chapter04\Chapter04\obj\Debug\netcoreapp3.1\Chapter04.AssemblyInfo.cs
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04\Chapter04\Chapter04\obj\Debug\netcoreapp3.1\Chapter04.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04\Chapter04\Chapter04\obj\Debug\netcoreapp3.1\Chapter04.dll
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04\Chapter04\Chapter04\obj\Debug\netcoreapp3.1\Chapter04.pdb
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04\Chapter04\Chapter04\obj\Debug\netcoreapp3.1\Chapter04.genruntimeconfig.cache
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter04\bin\Debug\netcoreapp3.1\Chapter04.exe
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter04\bin\Debug\netcoreapp3.1\Chapter04.deps.json
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter04\bin\Debug\netcoreapp3.1\Chapter04.runtimeconfig.json
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter04\bin\Debug\netcoreapp3.1\Chapter04.runtimeconfig.dev.json
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter04\bin\Debug\netcoreapp3.1\Chapter04.dll
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter04\bin\Debug\netcoreapp3.1\Chapter04.pdb
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter04\obj\Debug\netcoreapp3.1\Chapter04.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter04\obj\Debug\netcoreapp3.1\Chapter04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter04\obj\Debug\netcoreapp3.1\Chapter04.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter04\obj\Debug\netcoreapp3.1\Chapter04.AssemblyInfo.cs
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter04\obj\Debug\netcoreapp3.1\Chapter04.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter04\obj\Debug\netcoreapp3.1\Chapter04.dll
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter04\obj\Debug\netcoreapp3.1\Chapter04.pdb
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter04\obj\Debug\netcoreapp3.1\Chapter04.genruntimeconfig.cache
