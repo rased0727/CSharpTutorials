@@ -8,13 +8,17 @@
   <ItemGroup>
     <Compile Remove="Cat.cs" />
     <Compile Remove="Constructor.cs" />
+    <Compile Remove="Employee.cs" />
     <Compile Remove="InstanceStatic.cs" />
+    <Compile Remove="MyClass.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="Cat.cs" />
     <None Include="Constructor.cs" />
+    <None Include="Employee.cs" />
     <None Include="InstanceStatic.cs" />
+    <None Include="MyClass.cs" />
   </ItemGroup>
 
 </Project>
