@@ -6,20 +6,28 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="ArmorSuite.cs" />
+    <Compile Remove="Bird.cs" />
     <Compile Remove="Cat.cs" />
     <Compile Remove="Constructor.cs" />
     <Compile Remove="Employee.cs" />
     <Compile Remove="InstanceStatic.cs" />
+    <Compile Remove="Mammal.cs" />
     <Compile Remove="MyClass.cs" />
+    <Compile Remove="ReadOnlyStruct.cs" />
     <Compile Remove="ThisConstructor.cs" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="ArmorSuite.cs" />
+    <None Include="Bird.cs" />
     <None Include="Cat.cs" />
     <None Include="Constructor.cs" />
     <None Include="Employee.cs" />
     <None Include="InstanceStatic.cs" />
+    <None Include="Mammal.cs" />
     <None Include="MyClass.cs" />
+    <None Include="ReadOnlyStruct.cs" />
     <None Include="ThisConstructor.cs" />
   </ItemGroup>
 
