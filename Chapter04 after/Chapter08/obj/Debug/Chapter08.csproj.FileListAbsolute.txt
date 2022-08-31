@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter08\bin\Debug\Chapter08.exe.config
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter08\bin\Debug\Chapter08.exe
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter08\bin\Debug\Chapter08.pdb
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter08\obj\Debug\Chapter08.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter08\obj\Debug\Chapter08.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter08\obj\Debug\Chapter08.exe
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter08\obj\Debug\Chapter08.pdb
