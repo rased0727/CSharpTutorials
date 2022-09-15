@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter09\bin\Debug\netcoreapp3.1\Chapter09.exe
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter09\bin\Debug\netcoreapp3.1\Chapter09.deps.json
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter09\bin\Debug\netcoreapp3.1\Chapter09.runtimeconfig.json
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter09\bin\Debug\netcoreapp3.1\Chapter09.runtimeconfig.dev.json
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter09\bin\Debug\netcoreapp3.1\Chapter09.dll
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter09\bin\Debug\netcoreapp3.1\Chapter09.pdb
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter09\obj\Debug\netcoreapp3.1\Chapter09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter09\obj\Debug\netcoreapp3.1\Chapter09.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter09\obj\Debug\netcoreapp3.1\Chapter09.AssemblyInfo.cs
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter09\obj\Debug\netcoreapp3.1\Chapter09.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter09\obj\Debug\netcoreapp3.1\Chapter09.dll
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter09\obj\Debug\netcoreapp3.1\Chapter09.pdb
+C:\Users\admin\Desktop\GitHub\CSharpTutorials\Chapter04 after\Chapter09\obj\Debug\netcoreapp3.1\Chapter09.genruntimeconfig.cache
